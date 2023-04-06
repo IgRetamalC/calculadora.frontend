@@ -16,15 +16,6 @@ body{
     width: 18rem;
     
 }
-#title {
-    background-color: rgb(41, 101, 150);
-}
-header {
-    position: fixed; 
-    height: 20%;
-	top: 0;
-	width: 100%;
-}
 footer {
    /* position: fixed; Estilo del Footer */
    height: 20%;
